@@ -4,7 +4,7 @@ const items = [
     {  weight:70,image: 'connect.png' },
     { weight: 5,image: 'boat-removebg.png' },
     {  weight: 5,image: 'pebble_smart_watch.jpg' },
-    {  weight: 5,image: 'Watch2_pro.jpg' },
+    {  weight: 5,image: 'watch2_pro.jpg' },
     {  weight:5,image: 'Watch_2.jpg' },
     { weight:5 ,image: 'zaviaa.png'},
     { weight:5 ,image: 'Realme_buds_wireless.png'}
